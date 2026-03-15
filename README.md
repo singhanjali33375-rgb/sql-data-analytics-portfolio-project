@@ -404,6 +404,6 @@ This project is open source and available for learning purposes.
 👩‍💻 Author
 Anjali Singh
 B.Tech Computer Science Student
-Aspiring Data Analyst / DevOps Engineer
+Aspiring Data Analyst / DevOps Engineer         
 ⭐ Support
 If you found this project helpful, please consider giving it a ⭐ on GitHub.
